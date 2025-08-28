@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parth-Gochhwal
-- 👀 I’m interested in AI and ML engineering, App Development 
+- 👀 I’m interested in AI and ML engineering, Web Development 
 - 🌱 I’m currently a student at Dronacharya College of Engineering 
 - 💞️ I’m pursuing BTech CSE(AIML) 
 - 📫 Reach out to me at gochhwalparth@gmail.com
